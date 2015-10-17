@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 /*
-  Author: etoraman
+  Author: etoraman2
   Date: 17.10.15 15:03
   Description: 
 */
