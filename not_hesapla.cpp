@@ -3,7 +3,7 @@
 /*
   Author: etoraman
   Date: 17.10.15 15:03
-  Description: 
+  Description: C++ ile basit not hesaplama
 */
 
 using namespace std;
